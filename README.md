@@ -1,12 +1,4 @@
-# JohnPot_Practice
+#READ ME
 
-<<<<<<< HEAD
-## my first git edit
-=======
-## my second git edit
->>>>>>> 6b969c45778af1ef60b9e952542f7811a5c846e9
+Copywrite John Pot
 
-Copyright 2018 John Pot
-
-another edit
-'a;dsgjhas
